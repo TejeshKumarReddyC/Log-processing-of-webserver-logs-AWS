@@ -12,4 +12,4 @@ echo "<!DOCTYPE html>
 
 </body>
 </html>" > /var/www/html/index.html
-echo " A simple web app has been set up"
+echo " A simple web server has been set up"
