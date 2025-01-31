@@ -1,3 +1,7 @@
+
+**Workflow**
+Webserver_logs(EC2) ---> Log_group(Cloudwatch) ---> Lambda ---> S3_Bucket & Notification (SNS)
+
 -->**Introduction**
 In this project we're gonna perform log processing of a web server using cloudwatch logs, lambda, s3 and subscription filters.
 
