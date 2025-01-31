@@ -1,5 +1,5 @@
 
-**Workflow**
+**Workflow:-**
 Webserver_logs(EC2) ---> Log_group(Cloudwatch) ---> Lambda ---> S3_Bucket & Notification (SNS)
 
 -->**Introduction**
